@@ -2,7 +2,7 @@
 
 これは、次の教材で作られたサンプルアプリケーションです
 [*Ruby on Rail チュートリアル*](https://railstutorial.jp/)
-[Michael Hartl](http://www.michaelhartl.com)著
+[Michael Hartl](https://www.michaelhartl.com)著
 
 ## ライセンス
 
