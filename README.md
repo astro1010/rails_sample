@@ -4,13 +4,13 @@
 [*Ruby on Rail チュートリアル*](https://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com)著
 
-##ライセンス
+## ライセンス
 
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
 ソースコードはMITライセンスとBeewareライセンスのもとで公開されています。
 詳細は [LICENCE.md](LICENSE.md) をご覧ください。
 
-##使い方
+## 使い方
 
 このアプリケーションを動かす場合は、まずはリポジトリを手元にクローンしてください。
 その後、次のコマンドで必要になる RubyGems をインストールします。
