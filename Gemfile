@@ -6,7 +6,7 @@ ruby '2.5.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
 # Use Bootstrap
-gem 'bootstrap-sass', '3.3.7'
+gem "bootstrap-sass", ">= 3.4.1"
 # Use Jquery
 gem 'jquery-rails'
 # Use ujs
